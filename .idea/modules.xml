@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Location-Permissions.iml" filepath="$PROJECT_DIR$/Location-Permissions.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/locationPermissionApp.iml" filepath="$PROJECT_DIR$/locationPermissionApp.iml" />
+      <module fileurl="file://C:\Users\t00053669\Desktop\Location-Permissions\locationPermissionApp.iml" filepath="C:\Users\t00053669\Desktop\Location-Permissions\locationPermissionApp.iml" />
     </modules>
   </component>
 </project>
